@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelafsinfo" alt="rafaelafsinfo" /></a> </p>
 
-- 🌱 estou aprendendo atualmente **python,c#,html,css,php,My sql**
+- 🌱 estou aprendendo atualmente **python,c#,html,css,php,My sql,java,javascript e kotlin**
 
 - 📫 como me encontrar **rafaell.freitas2017@gmail.com** ou pelas redes sociais
 
